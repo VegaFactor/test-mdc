@@ -11,7 +11,7 @@ object Dependency {
     "Atlassian Releases"      at "https://maven.atlassian.com/public/",
     "Typesafe repository"     at "https://repo.typesafe.com/typesafe/releases/",
 //    "lightbend-commercial"    at "https://repo.lightbend.com/commercial-releases",
-    "lightbend-commercial"    at "https://repo.lightbend.com/pass/32y6h6qSbhhO4cZGe1luu_-a6GJEaUaRpPmWpU1HQ-7guTNn/commercial-releases",
+    "lightbend-commercial"    at "https://repo.lightbend.com/pass/..../commercial-releases",
     "Akka library repository" at "https://repo.akka.io/maven",
     Resolver.jcenterRepo,
     Resolver.url("Typesafe Ivy releases", url("https://repo.typesafe.com/typesafe/ivy-releases"))(Resolver.ivyStylePatterns),
